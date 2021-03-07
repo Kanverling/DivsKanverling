@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header {
+    background-color: #FA7800;
+    padding: 10px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+#nav {
+    background-color: #F2575A;
+    padding: 10px;
+    height: 70px;
+    margin-bottom: 10px;
+}
+#left {
+    background-color: #8CFBB6;
+    padding: 10px;
+    float: left;
+    height: 600px;
+    width: 32%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+#Centro {
+    background-color: #A4D4F9;
+    padding: 10px;
+    float: left;
+    height: 600px;
+    width: 32%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#right {
+    background-color: #C5BCFA;
+    padding: 10px;
+    float: right;
+    height: 600px;
+    width: 32%;
+    margin-bottom: 10px;
+}
+#section {
+    background-color: #000000;
+    margin-bottom: 10px;
+}
+#espa {
+    background-color: #1A5CED;
+    padding: 10px;
+    height: 250px;
+    margin-bottom: 10px;
+}
+#pie {
+    background-color: #DA5E09;
+    margin: px;
+    padding: 10px;
+    height: 450px;
+}
+#Menufijo {
+    background-color: #B1ECF3;
+    padding: 10px;
+    height: 70px;
+    width: 30%;
+    margin-left: 30%;
+    position: fixed;
+}
